@@ -30,6 +30,7 @@
 ---
 
 ## 📌 Proyectos destacados
+- 📂 **Sistema de gestión y visualzacion de predios** → Organización y control de predios.  
 - 📂 **Sistema de gestión documental** → Organización y control de expedientes tipo carpetas.  
 - 🏬 **Sistema de gestión de almacenes** → Control de entradas, salidas y generación de reportes.  
 - 🎮 **Juegos Interactivos** → Juego de preguntas y respuestas con Django y MySQL.  
