@@ -77,7 +77,7 @@
   </a>
 
   <!-- Portafolio -->
-  <a href="https://whimsical-cocada-3ed4f3.netlify.app/" target="_blank" style="
+  <a href="https://javiercorzo-dev.netlify.app/" target="_blank" style="
       text-decoration: none; 
       color: #FF5722; 
       font-weight: 500; 
